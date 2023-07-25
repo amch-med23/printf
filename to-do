@@ -1,1 +1,12 @@
 This is the To-Do file
+-> we need to update the README.md file to look like,
+a document file, because this is required to document the function.
+-> we must define THE function prototypes first inside the main.h file
+-> i categorized the main.h file to contain the functions definition
+by category:
+		for example: print_int, print_float (are of type /*print number*/)
+		this is commented in main.h file.
+-> i did include all the required functions prototypes in main.h, but we need to implement them
+  one by one as required from the intranet.
+
+-> we need to collaborate relatively in order for us to be scored fully.
