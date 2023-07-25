@@ -10,3 +10,6 @@ by category:
   one by one as required from the intranet.
 
 -> we need to collaborate relatively in order for us to be scored fully.
+
+->(Important Remarque), all the fucntion that prints something, do that using _putchar()
+and after that they return the number of the printed characters.
