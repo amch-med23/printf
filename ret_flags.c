@@ -2,8 +2,8 @@
 /**
  * ret_flag - turns on flags if _printf finds a
  * flag modifier in the format string.
- * @s: character that holds the flag specifier
- * @f: pointer to the struct flags in which we turn
+ * @ch: character that holds the flag specifier
+ * @flag: pointer to the struct flags in which we turn
  * the flags.
  *
  * Return: 1 if a flag has been turned on, 0 if no

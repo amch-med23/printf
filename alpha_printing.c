@@ -2,7 +2,7 @@
 /**
  * print_string - loops through a string characters
  * and prints them.
- * @l: va_list argument from _printf.
+ * @ap: va_list argument from _printf.
  * @f: pointer to the struct flags that determins
  * if a flag is passed to _printf.
  *

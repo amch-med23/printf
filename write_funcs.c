@@ -1,7 +1,9 @@
 #include "main.h"
 /**
- * _purchar - writes the character to the standard
+ * _putchar - writes the character to the standard
  * output.
+ * @ch: the passed character.
+ *
  * Return: (1) on success
  */
 int _putchar(char ch)
@@ -24,6 +26,8 @@ int _putchar(char ch)
 
 /**
  * _puts - prints a string to stout.
+ * @str: the passed string.
+ *
  * Return: number of chars written.
  */
 int _puts(char *str)

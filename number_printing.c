@@ -1,6 +1,7 @@
 #include "main.h"
 /**
  * count_digit - returns the number of digits in an integer
+ * @d: the given number.
  *
  * Return: the number of digits
  */
