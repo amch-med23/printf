@@ -39,9 +39,12 @@ void print_number(int number);
 int print_unsigned(va_list l, flags_t *f);
 
 /**
- * count_digit
- * this is used by print_int to count the number to return
- *  [this means the number of digit that was printed]
+ * count_digit - this is used by print_int to count
+ * @i: the operand. 
+ * the number to return [this means the number of digit 
+ * that was printed].
+ *
+ * Return: int
 */
 int count_digit(int i);
 
