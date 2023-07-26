@@ -1,4 +1,5 @@
 This is the To-Do file
+
 -> we need to update the README.md file to look like,
 a document file, because this is required to document the function.
 -> we must define THE function prototypes first inside the main.h file
@@ -13,3 +14,4 @@ by category:
 
 ->(Important Remarque), all the fucntion that prints something, do that using _putchar()
 and after that they return the number of the printed characters.
+-> i create a folder for a documentation file.
