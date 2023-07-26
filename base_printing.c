@@ -21,6 +21,7 @@ int print_hex(va_list ap, flags_t *f)
 	{
 		counter += _puts("0x");
 	}
+	counter += _puts(str);
 	return (counter);
 }
 

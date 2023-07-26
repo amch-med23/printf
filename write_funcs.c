@@ -8,12 +8,12 @@
  */
 int _putchar(char ch)
 {
-	static char buffer[1024] __attribute__((unused));
+	static char buffer[1024];
 	static int i;
 
 	if (ch == -1 || i >= 1024)
 	{
-		write(1, &ch, 1);
+		write(1, &buffer, i);
 		i = 0;
 	}
 	if (ch != -1)
@@ -21,7 +21,7 @@ int _putchar(char ch)
 	buffer[i] = ch;
 		i++;
 	}
-	return (i);
+	return (1);
 }
 
 /**
