@@ -45,6 +45,7 @@ The _printf() function performs some basic error checks to ensure that the forma
 Athous:
 
 Mohamed Amouch 
-Tinotenda Dzvurumi @tinodee206@gmail.com
+Tinotenda Dzvurumi 
+Email:tinodee206@gmail.com
 
 Thank You!
