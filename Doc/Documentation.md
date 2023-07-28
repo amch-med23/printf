@@ -33,6 +33,7 @@ The _printf() function supports the following format specifiers:
 %%: A literal % character (escape sequence for a single %).
 
 Flags:
+
 The _printf function supports certain flags that can modify the output behavior.
 ' ': the space flag.
 '#': the hash flasg.
@@ -43,7 +44,7 @@ The _printf() function performs some basic error checks to ensure that the forma
 
 Athous:
 
-Mohamed Amouch
-Tinotenda Dzvurumi
+Mohamed Amouch 
+Tinotenda Dzvurumi @tinodee206@gmail.com
 
 Thank You!
