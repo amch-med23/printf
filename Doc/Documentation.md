@@ -4,13 +4,14 @@ Description
 The _printf function is a custom implementation of the standard printf function in C. It is designed to provide formatted output, just like printf, but with a subset of the standard format specifiers. This function supports various data types and can handle a variable number of arguments.
 
 Function Signature:
+The prototype of the function
 int _printf(const char *format, ...);
 
 Parameters:
 
 format: A pointer to a constant character string that contains the format specifier and optional text to be printed. The format specifier starts with % and may be followed by conversion characters.
 
-... (Ellipsis): A variable number of arguments that will be printed according to the format specifier provided in the format string. The number and types of arguments must match the format specifier for correct behavior.
+ (Ellipsis): A variable number of arguments that will be printed according to the format specifier provided in the format string. The number and types of arguments must match the format specifier for correct behavior.
 
 Return Value
 The function has only 2 return paths which are as follows
