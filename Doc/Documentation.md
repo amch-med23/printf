@@ -38,7 +38,7 @@ Flags:
 The _printf function supports certain flags that can modify the output behavior.
 ' ': the space flags.
 '#': the hash flasgs.
-'+': the plus flag.
+'+': the plus flags.
 
 Error Handling
 The _printf() function performs some basic error checks to ensure that the format string is not null and that it doesn't consist of a single % character or % followed by a space as the only content. If any of these conditions are met, the function returns -1 to indicate an error.
