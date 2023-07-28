@@ -13,6 +13,7 @@ format: A pointer to a constant character string that contains the format specif
 ... (Ellipsis): A variable number of arguments that will be printed according to the format specifier provided in the format string. The number and types of arguments must match the format specifier for correct behavior.
 
 Return Value
+The function has only 2 return paths which are as follows
 The function returns the total number of characters successfully printed (excluding the null-terminator), or -1 if an error occurs.
 
 Supported Format Specifiers
