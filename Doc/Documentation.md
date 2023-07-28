@@ -27,7 +27,7 @@ The _printf() function supports the following format specifiers:
 %d, %i: Signed decimal integer format specifier.
 %u: Unsigned decimal integer format specifier.
 %x, %X: Unsigned hexadecimal integer format specifier.
-%b: prints the binary format of a number.
+%b: prints a number in binary format.
 %r: prints a strig in reverse.
 %R: printf the rot13 incodeing of a string.
 %%: A literal % character (escape sequence for a single %).
