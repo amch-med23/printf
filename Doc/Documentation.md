@@ -12,7 +12,6 @@ int _printf(const char *format, ...);
 Parameters:
 
 format: A pointer to a constant character string that contains the format specifier and optional text to be printed. The format specifier starts with % and may be followed by conversion characters.
-
  (Ellipsis): A variable number of arguments that will be printed according to the format specifier provided in the format string. The number and types of arguments must match the format specifier for correct behavior.
 
 Return Values:
@@ -37,7 +36,7 @@ The _printf() function deals with the following formats
 Flags:
 
 The _printf function supports certain flags that can modify the output behavior.
-' ': the space flag.
+' ': the space flags.
 '#': the hash flasg.
 '+': the plus flag.
 
