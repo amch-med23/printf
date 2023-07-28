@@ -1,6 +1,6 @@
 ALX group project: _printf() Function Documentation
 
-Description
+Description:
 
 The _printf function is a custom implementation of the standard printf function in C. It is designed to provide formatted output, just like printf, but with a subset of the standard format specifiers. This function supports various data types and can handle a variable number of arguments.
 
