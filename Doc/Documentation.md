@@ -37,7 +37,7 @@ Flags:
 
 The _printf function supports certain flags that can modify the output behavior.
 ' ': the space flags.
-'#': the hash flasg.
+'#': the hash flasgs.
 '+': the plus flag.
 
 Error Handling
