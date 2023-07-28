@@ -19,7 +19,7 @@ Return Values:
 The function has only 2 return paths which are as follows
 The function returns the total number of characters successfully printed (excluding the null-terminator), or -1 if an error occurs.
 
-Supported Format Specifiers:
+Supported Format all Specifiers:
 
 The _printf() function deals with the following formats
 
