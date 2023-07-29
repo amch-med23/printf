@@ -11,8 +11,11 @@ int _printf(const char *format, ...);
 
 Parameters:
 
-format: A pointer to a constant character string that contains the format specifier and optional text to be printed. The format specifier starts with % and may be followed by conversion characters.
- (Ellipsis): -A variable number of arguments that will be printed according to the format specifier provided in the format string. The number and types of arguments must match the format specifier for correct behavior.
+format: A pointer to a constant character string that contains the format specifier and optional text to be printed.
+The format specifier starts with % and may be followed by conversion characters.
+
+ (Ellipsis): A variable number of arguments that will be printed according to the format specifier provided in the format string.
+ The number and types of arguments must match the format specifier for correct behavior.
 
 Return Value:
 
@@ -30,7 +33,7 @@ The _printf() function deals with the following formats
 %x, %X: Unsigned hexadecimal integer format specifier.
 %b: prints a number in binary format.
 %r: prints a strig in reverse.
-%R: printf the rot13 incodeing of a string.
+%R: printf the rot13 incoding of a string.
 %%: A literal % character (escape sequence for a single %).
 
 Flags:
@@ -46,8 +49,8 @@ The _printf() function performs some basic error checks to ensure that the forma
 AUTHORS:
 
 1: Mohamed Amouch
-Email:@amch-med23 
+Email: skyied.med2023@gmail.com
 2: Tinotenda Dzvurumi 
-Email:tinodee206@gmail.com
+Email: tinodee206@gmail.com
 
-Thank you and enjoy
+Thank you.
