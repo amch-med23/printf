@@ -27,20 +27,31 @@ Supported Format all Specifiers:
 The _printf() function deals with the following formats
 
 %c: Character format specifier.
+
 %s: String format specifier.
+
 %d, %i: Signed decimal integer format specifier.
+
 %u: Unsigned decimal integer format specifier.
+
 %x, %X: Unsigned hexadecimal integer format specifier.
+
 %b: prints a number in binary format.
+
 %r: prints a strig in reverse.
+
 %R: printf the rot13 incoding of a string.
+
 %%: A literal % character (escape sequence for a single %).
 
 Flags:
 
 The _printf function supports certain flags that can modify the output behavior.
+
 ' ': the space flags.
+
 '#': the hash flasgs.
+
 '+': the plus flags.
 
 Error Handling
@@ -49,8 +60,11 @@ The _printf() function performs some basic error checks to ensure that the forma
 AUTHORS:
 
 1: Mohamed Amouch
+
 Email: skyied.med2023@gmail.com
+
 2: Tinotenda Dzvurumi 
+
 Email: tinodee206@gmail.com
 
 Thank you.
